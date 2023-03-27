@@ -1,7 +1,7 @@
 const Header=()=>{
     return(
         <div className="head">
-       <h1>Movies</h1> 
+       <h1>Great ishika bhute</h1> 
        </div>
     )
 }
